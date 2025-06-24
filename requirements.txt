@@ -1,0 +1,14 @@
+# Core libraries for data processing and analysis
+datasets
+numpy
+pandas
+regex
+scipy>=1.15.3
+matplotlib
+seaborn
+
+# Testing
+pytest
+
+
+
