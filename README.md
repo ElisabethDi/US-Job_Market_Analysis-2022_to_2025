@@ -10,7 +10,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 
-![CI](https://github.com/ElisabethDi/US-Job_Market_Analysis-2022_to_2025/actions/workflows/ci.yml/badge.svg)
+
+
 
 
 
