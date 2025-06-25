@@ -1,29 +1,26 @@
-<<<<<<< HEAD
+
 # 📊 U.S. Data Job Market Analysis (2022–2025)
 
-
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white&style=for-the-badge)]
-[![Pandas](https://img.shields.io/badge/Pandas-1.5.0-lightgray?logo=pandas&logoColor=white&style=for-the-badge)]
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-white?logo=matplotlib&logoColor=black&style=for-the-badge)]
-[![SciPy](https://img.shields.io/badge/SciPy-1.x-blue?logo=scipy&logoColor=white&style=for-the-badge)]
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-
-[![CI Pipeline](https://github.com/ElisabethDi/US-Job_Market_Analysis-2022_to_2025/actions/workflows/ci.yml/badge.svg)](https://github.com/ElisabethDi/US-Job_Market_Analysis-2022_to_2025/actions/workflows/ci.yml)
+<!-- badges: start -->
 
 
 
+[![Python](https://img.shields.io/badge/Python-3.11-brightgreen?logo=python&logoColor=white&style=plastic)](https://python.org)
+[![pandas](https://img.shields.io/badge/pandas-1.5.0-brightgreen?logo=pandas&logoColor=white&style=plastic)](https://pandas.pydata.org)
+[![matplotlib](https://img.shields.io/badge/Matplotlib-3.x-brightgreen?logo=matplotlib&logoColor=black&style=plastic)](https://matplotlib.org)
+[![SciPy](https://img.shields.io/badge/SciPy-1.x-brightgreen?logo=scipy&logoColor=white&style=plastic)](https://scipy.org)
 
 
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=plastic)](https://opensource.org/licenses/MIT)
+[![CI Status](https://github.com/ElisabethDi/US-Job_Market_Analysis-2022_to_2025/actions/workflows/ci.yml/badge.svg)](https://github.com/ElisabethDi/US-Job_Market_Analysis-2022_to_2025/actions)
 
-
-
-
-
+<!-- badges: end -->
 
 
 
 This project provides a thorough analysis of U.S. data job listings from 2022 to 2025, offering valuable insights into the data job market, including job locations, remote-work trends, employment type,job platform, salary distributions and skill trends for Data Analyst, Data Engineer, and Data Scientist roles.
+
+
 
 ## Table of Contents
 
@@ -423,9 +420,3 @@ These findings highlight the key trends and insights from the analysis of the U.
 
 - **Job Description Variability:** Job descriptions vary widely across platforms, making it challenging to ensure consistency in role definitions and responsibilities.
 
-
-
-=======
-# US-Job_Market_Analysis
-U.S. Job Market Analysis for Data positions from the years of 2022 to 2025
->>>>>>> 741404d1097e03d9920b7c66afa529bf1d7d1906
